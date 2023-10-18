@@ -1,0 +1,5 @@
+fileignoreconfig:
+- filename: src/main/resources/data.sql
+  checksum: dd1543ec0c544c51ace0cddc1356e8c578983641e8f4a4325892497b2b6e2a5b
+- filename: mvnw
+  checksum: 9a0e968807e91279b4856750466e5aab9eeac7305e4ec8463979cb7cb0525f67
